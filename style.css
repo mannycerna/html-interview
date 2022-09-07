@@ -1,0 +1,59 @@
+
+div {
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    padding: 25px;
+    /*background-image: url(rdj.jpg);
+    background-size: 100%;*/
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgba(245, 222, 179, 0.311);
+}
+
+img {
+    padding: 50px; 
+    width: 200px;
+    height: 200px;
+
+}
+
+li {
+    
+    font-family:'Courier New', Courier, monospace;
+    font-weight:800;
+    font-size: 20px;
+    color: rgb(134, 235, 33);
+    padding: 10px;
+    font-style: italic;
+
+}
+
+
+#manny {
+    background-image: url(taos.jpeg);
+    background-size: 100%;
+}
+
+#aaron {
+    background-image: url(sandiego.jpeg);
+    background-size: 100%;
+}
+
+#jake {
+    background-image: url(denver.jpeg);
+    background-size: 100%;
+}
