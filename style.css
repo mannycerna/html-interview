@@ -45,8 +45,8 @@ li {
 
 
 #manny {
-    background-image: url(tsv.jpeg);
-    background-size: 225%;
+    background-image: url(taos.jpeg);
+    background-size: 100%;
 }
 
 #aaron {
@@ -55,6 +55,6 @@ li {
 }
 
 #jake {
-    background-image: url(denver_bro.jpeg);
-    background-size: 190%;
+    background-image: url(denver.jpeg);
+    background-size: 100%;
 }
